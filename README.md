@@ -50,3 +50,7 @@ So far, I've got the following as SVGs and PNGs:
 	<strong>Jocelyn Bell Burnell</strong>
 </div>
 
+### Contributing
+
+Suggest a scientist, or even fork this repository, create your own, and push back here :) The style should be consistent however.
+
